@@ -1,0 +1,27 @@
+username: "chandler40"
+confirm_password: "secret"
+country_id: 566
+current_password: "secret"
+display_name: "Armstrong, Howell and Wisoky Inc"
+email: "wendy42@example.com"
+password: "secret"
+phone_number: "+1 (112) 498-4507"
+uploadUrl: "http://localhost:3000/api/v1/user/profiles/update"
+
+
+/*Collection */
+
+Collection {#366
+  #items: array:1 [
+    "books" => array:2 [
+      0 => array:2 [
+        "id" => 4
+        "description" => "Adipisci non enim vi"
+      ]
+      1 => array:2 [
+        "id" => 6
+        "description" => "Ex et alias et cum b"
+      ]
+    ]
+  ]
+}
